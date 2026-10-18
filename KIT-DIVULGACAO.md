@@ -8,6 +8,9 @@
 
 **Diferencial real desta versão:** reúne contatos, datas de retorno e rascunhos editáveis num app web simples; os dados ficam no navegador da própria pessoa. Sem cadastro, mensalidade ou envio automático de mensagens.
 
+**Página pública:** https://arthur23255.github.io/giro/divulgue.html
+**Abrir o app:** https://arthur23255.github.io/giro/
+
 **Público para abordar primeiro:** quem vende bolos/comidas por encomenda, roupas/itens artesanais, beleza, manutenção, aulas ou serviços locais. Escolha apenas um desses grupos para o primeiro vídeo, usando exemplos que você conhece.
 
 ## Antes de publicar
@@ -51,7 +54,7 @@ Quero ouvir quem trabalha com vendas ou serviços: experimente pelo link e me di
 
 **Tela 2:** “Fiz o GIRO para organizar contatos, lembretes e próximos passos num só lugar.”
 
-**Tela 3:** “Estou procurando 5 pessoas que vendem por conta própria para experimentar e me dizer o que falta. Link: [COLE AQUI O LINK PÚBLICO]”
+**Tela 3:** “Estou procurando 5 pessoas que vendem por conta própria para experimentar e me dizer o que falta. Link: https://arthur23255.github.io/giro/divulgue.html”
 
 ## Convite individual
 
