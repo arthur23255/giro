@@ -1,0 +1,26 @@
+GIRO — versão 1.0
+
+O QUE VEM NESTE PACOTE
+- index.html: contatos, etapas, lembretes com concluir/adiar, busca e filtros, resumo do dia, rascunhos por etapa/assunto em três tons, WhatsApp, edição/exclusão e importação/exportação.
+- manifest.webmanifest, sw.js e ícones 192/512: instalação como app web e funcionamento offline após primeira visita.
+
+PARA ABRIR AGORA
+Abra index.html no navegador. Cadastro, busca, edição, conclusão, adiamento, rascunhos e backup funcionam localmente.
+
+PARA PUBLICAR GRÁTIS NO GITHUB PAGES
+1. Crie uma conta GitHub, se ainda não tiver, e um repositório público chamado giro.
+2. Envie todos os arquivos desta pasta para a raiz do repositório; mantenha index.html, manifest.webmanifest, sw.js e os ícones juntos.
+3. Abra Settings > Pages, escolha publicar pela branch main e pasta /(root), e salve.
+4. Quando o endereço do site aparecer, compartilhe o endereço terminado em /divulgue.html. O botão dessa página abre o app. Para instalar, visite a raiz do site uma vez conectado à internet e escolha Instalar; no iPhone/iPad, use Compartilhar > Adicionar à Tela de Início.
+
+MATERIAIS DE DIVULGAÇÃO
+- divulgue.html: página de apresentação para publicar junto do app.
+- KIT-DIVULGACAO.md: roteiro de vídeo, legendas, convite individual e plano orgânico de 7 dias.
+
+O GitHub Pages fornece HTTPS, necessário para instalação e serviço offline. O modo offline fica pronto depois da primeira abertura com internet.
+
+IMPORTANTE SOBRE OS DADOS
+Os dados são gravados apenas no armazenamento local do navegador/aparelho. Não existe conta, sincronização entre aparelhos, servidor, aviso de lembrete com o app fechado ou acesso do criador aos contatos dos usuários. Cada pessoa deve baixar uma cópia de segurança em um local seguro. Restaurar uma cópia substitui a lista atual naquele navegador.
+
+LIMITES DO RASCUNHO
+Os textos de mensagem são sugestões geradas por modelo simples dentro do app; não usam IA online. Revise a mensagem antes de enviar. O botão do WhatsApp abre o texto preparado, mas o usuário decide se envia.
